@@ -37,4 +37,4 @@ void print_row(int spaces, int bricks)
 
     // Move to the next line after printing each row
     printf("\n");
-}
+}  // test comments
